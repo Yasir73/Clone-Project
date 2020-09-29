@@ -1,1 +1,2 @@
 second file is also added to clone project
+lines have been added to second.txt for pull from git hub
